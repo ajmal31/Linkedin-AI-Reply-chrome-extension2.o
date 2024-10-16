@@ -3,10 +3,10 @@
 
 # Project Instructions 
   * git clone https://github.com/ajmal31/LinkedIn-AI-Reply-chrome-extension.git
-  * cd linkein-AI-reply-chrome-extension
+  * cd LinkedIn-AI-Reply-chrome-extension
   * npm i
   * npm run dev
-  * chrome://extensions/
+  * Take `chrome://extensions/`
     * Enable developer mode
     * Choose Load unpacked ( left top of chrome)
     * Find the folder from DIR
